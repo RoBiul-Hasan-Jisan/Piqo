@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://piqo-taupe.vercel.app/sitemap.xml

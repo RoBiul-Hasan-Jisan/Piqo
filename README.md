@@ -6,7 +6,7 @@ Animated 3D robot heads for React. Glossy, TV-headed bots with an LED-matrix fac
 
 Drawn on a 2D canvas: no WebGL, no runtime dependencies.
 
-Made by [Robiul Hasan Jisan](https://github.com/RoBiul-Hasan-Jisan). Boop the robot, it likes it. 
+Made by [Robiul Hasan Jisan](https://github.com/RoBiul-Hasan-Jisan). Boop the robot, it likes it. 🤖
 
 ## Quick start
 
