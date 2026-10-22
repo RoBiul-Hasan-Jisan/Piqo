@@ -1,0 +1,25 @@
+{
+  "name": "piqo",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Piqo — Little bots, big feelings. Animated 3D robot heads for React: glossy TV-headed bots with LED-matrix faces. Made by Robiul Hasan Jisan.",
+  "license": "MIT",
+  "author": "Robiul Hasan Jisan (https://github.com/RoBiul-Hasan-Jisan)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  }
+}
